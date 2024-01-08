@@ -9020,9 +9020,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project.Tests\\Project.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\Project\\Project.Tests\\Project.Tests.csproj",
       "projectName": "Project.Tests",
-      "projectPath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project.Tests\\Project.Tests.csproj",
+      "projectPath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\Project\\Project.Tests\\Project.Tests.csproj",
       "packagesPath": "C:\\Users\\tomek\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project.Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -9045,8 +9045,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project\\Project.csproj": {
-              "projectPath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project\\Project.csproj"
+            "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\Project\\Project\\Project.csproj": {
+              "projectPath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\Project\\Project\\Project.csproj"
             }
           }
         }

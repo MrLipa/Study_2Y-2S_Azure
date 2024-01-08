@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L88ywyCnWyy9Lsk/9FbIFp6P6ylYm+Yd6NuPBVj6iAEbiHQn4nA4bfUu7pz0sTuWYd06+EdeEZlTK+qm5y0L6A==",
+  "dgSpecHash": "I5IKUvCfYdYDyFHGVQzIeUj+3oXKseL4otnSJL/D5ZblALtcIRYs45IK6dMJm3UZywLsGrxqqaHV7srLZY2BGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\project\\Project.Tests\\Project.Tests.csproj",
+  "projectFilePath": "C:\\Users\\tomek\\Documents\\Folder\\Studia\\XISemestr\\Azure\\Project\\Project.Tests\\Project.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomek\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\tomek\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
