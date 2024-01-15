@@ -1,0 +1,8 @@
+dotnet tool install -g dotnet-ef --version 7.0.0
+
+
+CREATE TABLE [Todo] (
+ [ID] INTEGER NOT NULL IDENTITY,
+[Description] TEXT NULL,
+[CreatedDate] DATETIME NOT NULL
+);
